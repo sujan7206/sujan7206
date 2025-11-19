@@ -19,7 +19,7 @@
   <clipPath id="avatarMask">
     <circle cx="180" cy="180" r="80"/>
   </clipPath>
-  <image href="sujanbasnet.webp" x="100" y="100" width="160" height="160" clip-path="url(#avatarMask)"/>
+  <image href="sujanbasnet.png" x="100" y="100" width="160" height="160" clip-path="url(#avatarMask)"/>
 
   <!-- Name -->
   <text x="380" y="150" class="title">Sujan Basnet</text>
@@ -50,3 +50,4 @@
     <circle cx="520" cy="315" r="5" fill="white"/>
   </a>
 </svg>
+
