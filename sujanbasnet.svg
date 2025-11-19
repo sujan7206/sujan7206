@@ -1,0 +1,74 @@
+<!-- Final optimized GitHub banner for Sujan Basnet -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Sujan Basnet - Software Developer banner">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2e3192"/>
+      <stop offset="1" stop-color="#1bffff"/>
+    </linearGradient>
+
+    <style>
+      .title { font-family: system-ui; font-size:48px; font-weight:700; fill:#fff; }
+      .subtitle { font-family: system-ui; font-size:20px; fill:#e8f6ff; }
+      .meta { font-family: system-ui; font-size:16px; fill:#dff3ff; }
+      .badge { font-family: system-ui; font-size:14px; font-weight:600; fill:#0b2042; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bgGrad)"/>
+
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="340" height="280" rx="18" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.2)"/>
+    <clipPath id="avatarClip">
+      <circle cx="110" cy="110" r="90"/>
+    </clipPath>
+
+    <image href="https://raw.githubusercontent.com/sujan7206/sujan7206/main/sujanbasnet.webp" x="20" y="20" width="180" height="180" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+
+    <text x="220" y="70" class="title">Sujan Basnet</text>
+    <text x="220" y="110" class="subtitle">Software Developer & Open‑Source Enthusiast</text>
+    <text x="20" y="230" class="meta">Kathmandu, Nepal • holidayhimalaya.com/sujanbasnet</text>
+    <text x="20" y="255" class="meta">sujanbasnet7206.com.np</text>
+  </g>
+
+  <g transform="translate(420,40)">
+    <rect x="0" y="0" width="740" height="120" rx="14" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.18)"/>
+    <text x="20" y="40" class="subtitle">Tech Stack</text>
+
+    <g transform="translate(20,55)">
+      <rect x="0" rx="12" ry="12" width="90" height="28" fill="#fff"/>
+      <text x="12" y="19" class="badge">Python</text>
+
+      <rect x="100" rx="12" ry="12" width="90" height="28" fill="#fff"/>
+      <text x="112" y="19" class="badge">PHP</text>
+
+      <rect x="200" rx="12" ry="12" width="110" height="28" fill="#fff"/>
+      <text x="212" y="19" class="badge">JavaScript</text>
+
+      <rect x="320" rx="12" ry="12" width="110" height="28" fill="#fff"/>
+      <text x="332" y="19" class="badge">ASP.NET</text>
+
+      <rect x="440" rx="12" ry="12" width="110" height="28" fill="#fff"/>
+      <text x="452" y="19" class="badge">Web Apps</text>
+    </g>
+  </g>
+
+  <g transform="translate(420,180)">
+    <rect x="0" y="0" width="740" height="140" rx="14" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.15)"/>
+    <text x="20" y="38" class="subtitle">Connect with me</text>
+
+    <g transform="translate(20,65)">
+      <image href="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="26" height="26"/>
+      <text x="40" y="20" class="meta">github.com/sujan7206</text>
+    </g>
+
+    <g transform="translate(20,100)">
+      <image href="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26" height="26"/>
+      <text x="40" y="20" class="meta">linkedin.com/in/sujanbasnet7206</text>
+    </g>
+
+    <g transform="translate(370,65)">
+      <image href="https://cdn-icons-png.flaticon.com/512/545/545674.png" width="26" height="26"/>
+      <text x="40" y="20" class="meta">Portfolio: holidayhimalaya.com/sujanbasnet</text>
+    </g>
+  </g>
+</svg>
