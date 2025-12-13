@@ -84,14 +84,9 @@ I build **clean, responsive, practical web apps** with modern tools and a focus 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan7206&layout=compact&theme=dark&hide_border=true" height="160px"/>
 </p>
 
----
 
-## 🐍 GitHub Snake Animation  
-<p align="center">
-  <img src="https://github.com/sujan7206/sujan7206/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
----
+
 
 ## 🌐 Connect With Me 🌐
 <p align="center">
