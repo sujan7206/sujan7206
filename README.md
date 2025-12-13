@@ -57,10 +57,25 @@ I build **clean, responsive, practical web apps** with modern tools and a focus 
 **Databases**  
 ![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark&perline=5)
 
-**Tools**  
-![Tools](https://skillicons.dev/icons?i=git,github,linux,figma,photoshop&theme=dark&perline=7)
+
+**Tools & Platforms**  
+![Tools](https://skillicons.dev/icons?i=linux,git,github,photoshop,figma,autocad&theme=dark&perline=7)
+
+**Soft Skills**  
+Teamwork, Hardworking, Project Management, Problem Solving, Time Management, Communication Skills, Critical Thinking
+
 
 ---
+
+## 🎓 Education 🎓
+
+| Level | College Details | Course | GPA |
+|-------|-----------------|--------|-----|
+| Bachelor | Academia International College, Gwarko-Lalitpur <br/> Feb 2023 - Present | BSc.CSIT | 3.35 |
+| +2 Science | Bagmati Modern College, Sukedhara, Kathmandu <br/> Aug 2020 - Aug 2022 | Science | 3.29 |
+| SEE | Shree Garma Secondary School, garma-7, Solukhumbu <br/> Mar 2009 - Feb 2019 | Basic | 3.64 |
+
+
 
 ## 🏆 Featured Projects 🏆
 
@@ -72,6 +87,19 @@ I build **clean, responsive, practical web apps** with modern tools and a focus 
 | 🧩 InnovateX Hackathon | JS • Prototype | Solving Nepal‑specific problems | — |
 
 ---
+
+## 💼 My Services 💼
+
+| Services | What I Do |
+|----------|-----------|
+| 🌐 Web Development | I create websites, web applications, e-commerce platforms based on user needs |
+| 📱 App Development | Android & iOS applications with modern UI and robust backend |
+| 🎨 UI/UX Design | Designing intuitive and engaging user interfaces |
+| ⚙️ SEO Optimization | Improve website rankings, traffic, and online presence |
+| 🎬 Video & Photo Editing | Professional video/photo editing for projects and marketing |
+
+---
+
 
 ## 📊 GitHub Analytics 📊
 
