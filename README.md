@@ -3,90 +3,108 @@
   <img src="https://raw.githubusercontent.com/sujan7206/sujan7206/main/sujanbasnet.svg" alt="Sujan Basnet Banner" width="100%" />
 </p>
 
-# 👋 Hi, I’m Sujan Basnet
+<h1 align="center">SUJAN BASNET</h1>
 
-[![Website](https://img.shields.io/badge/website-visit-blue)](https://holidayhimalaya.com/sujanbasnet)  
-[![Portfolio](https://img.shields.io/badge/portfolio-sujanbasnet7206.com.np-green)](https://sujanbasnet7206.com.np)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/sujanbasnet7206/)  
-[![Email](https://img.shields.io/badge/Email‑Me-red)](mailto:sujanbasnet7206@gmail.com)
+### <p align="center"><i>"Build boldly—your code is the spark that rewrites the future."</i></p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=CSIT+STUDENT+🎯;ASP.NET+DEVELOPER+🚀;PROBLEM+SOLVER+💡;Lifelong+Learner+🔥"/>
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <!-- PORTFOLIO -->
+  <a href="https://sujanbasnet7206.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FF80?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00ffcc" alt="Portfolio"/>
+  </a>
 
-I am a **Computer Science & Information Technology** student based in Kathmandu, Nepal. I build practical web solutions with a clean UI, responsive frontends, and reliable backends. I specialize in ASP.NET development and enjoy creating prototypes and full‑stack applications.
+  <!-- WEBSITE -->
+  <a href="https://holidayhimalaya.com/sujanbasnet" target="_blank" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Website-Visit-00aaff?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+  </a>
 
-- 🔭 **Currently working on:** Interactive media galleries for travel websites, full-stack web apps  
-- 💡 **Strengths:** ASP.NET (Web Forms & Core), C#, JavaScript, responsive design, REST API development  
-- 🌍 **Passionate about:** Open-source contribution, travel, and leveraging technology to solve real-world problems
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/sujanbasnet7206/" target="_blank" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
 
----
-
-## 🧰 Skills
-
-| Category | Skills |
-|---|---|
-| **Languages** | C#, JavaScript, HTML, CSS, SQL |
-| **Frameworks / Platforms** | ASP.NET Web Forms, ASP.NET Core MVC, Entity Framework |
-| **Tools** | Git, GitHub, VS / VS Code, Bootstrap |
-| **Others** | Responsive Design, REST APIs, Prototyping, Team Collaboration |
-
----
-
-## 🔨 Selected Projects
-
-- **Media Gallery for Travel Website** — A dynamic, filterable gallery (images, videos, reels) built for a travel platform.  
-- **NFA → DFA Converter** — Academic project: converting nondeterministic finite automaton (NFA) from regex into deterministic form (DFA).  
-- **ASP.NET Labs** — Collection of lab exercises: form handling, session/state management, GridView, user login.  
-- **Hackathon Prototype (InnovateX)** — A web app built during a hackathon to address Nepal-specific problems, focused on usability and impact.
+  <!-- EMAIL -->
+  <a href="mailto:sujanbasnet7206@gmail.com" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 📌 What I’m Open To
+## ✨ About Me ✨
+CSIT student & passionate **ASP.NET Developer** based in Kathmandu, Nepal.  
+I build practical, reliable, and visually appealing **full‑stack web applications**, specializing in modern .NET development.
 
-- Collaborating on full‑stack web applications  
-- Internships or freelance web development projects  
-- Contributing to beginner‑friendly open-source projects  
+🔭 **Currently working on:**  
+Interactive travel media galleries • Full‑stack .NET projects  
 
----
+💡 **Strengths:**  
+ASP.NET (Web Forms & Core), C#, SQL, JavaScript, UI prototyping, REST APIs  
 
-## 📈 GitHub Stats
-
-![Sujan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujan7206&show_icons=true&count_private=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujan7206&layout=compact&theme=default)
-
----
-
-## 📫 How to Reach Me
-
-- **Email:** [sujanbasnet7206@gmail.com](mailto:sujanbasnet7206@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/sujanbasnet7206](https://www.linkedin.com/in/sujanbasnet7206/)  
-- **Portfolio / Blog:** [sujanbasnet7206.com.np](https://sujanbasnet7206.com.np)
+🌍 **Passionate about:**  
+Open‑source, travel, photography & solving real-world problems with code
 
 ---
 
-## 🔭 Currently Learning & Building
+## ⚡ Tech Stack & Tools ⚡
 
-- Enhancing the media gallery with **lazy-loading**, **lightbox**, and **better interactivity**  
-- Building a **.NET Core microservices application** for travel‑business use in Nepal  
-- Exploring **architecture patterns**, clean code practices, and cloud deployment  
+### **Languages**
+![Languages](https://skillicons.dev/icons?i=cs,js,html,css,mysql&theme=dark)
 
----
+### **Frameworks / Platforms**
+![Frameworks](https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark)
 
-## 💡 Fun Facts
+### **Tools**
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark)
 
-- I love **open-source** and often browse for small bugs or features to contribute.  
-- I enjoy **travel photography**, especially mountain landscapes.  
-- Outside of coding, I like to **explore new places in Nepal** and read **sci-fi books**.
-
----
-
-## 🧾 Additional Resources & Philosophy
-
-- I use **dynamic badges and GitHub stats cards** to keep my profile fresh and informative. :contentReference[oaicite:0]{index=0}  
-- My README is designed to be **scannable**, with sections and visual elements that follow best practices. :contentReference[oaicite:1]{index=1}  
-- I believe in **continuous improvement**: both in code and personal growth.
+### **Other Skills**
+Responsive Design • REST APIs • Prototyping • Clean Architecture • Team Collaboration
 
 ---
 
+## 🏆 Featured Projects 🏆
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🎯 **Travel Media Gallery** | ASP.NET • C# • JS • SQL | Dynamic gallery for images, reels & videos used in travel platforms |
+| 🔄 **NFA → DFA Converter** | C# • Automata | Academic project converting regex-based NFA into DFA |
+| 💼 **ASP.NET Lab Projects** | ASP.NET • SQL | Collection of forms, sessions, GridView, login systems |
+| 🚀 **InnovateX Hackathon App** | HTML/CSS/JS • PHP | Prototype solving Nepal-based user challenges |
 
+---
+
+## 💼 Services I Provide
+| Services | What I Do |
+|----------|-----------|
+| 🌐 Web Development | Full‑stack sites & web apps (ASP.NET, C#, SQL) |
+| 🎨 UI/UX Design | Clean, responsive & modern UI prototyping |
+| ⚙️ API Development | RESTful backends & integration |
+| 📹 Media & Content | Photo/video editing for travel & digital platforms |
+
+---
+
+## 📊 GitHub Analytics 📊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujan7206&show_icons=true&count_private=true&theme=react" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan7206&layout=compact&theme=react" width="48%">
+</p>
+
+---
+
+## 🌐 Connect With Me 🌐
+<p align="center">
+<a href="https://github.com/sujan7206"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sujanbasnet7206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sujanbasnet7206@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://sujanbasnet7206.com.np"><img src="https://img.shields.io/badge/Portfolio-00cc99?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+<big>✨ <b>Thank You for Visiting My GitHub!</b> ✨</big><br/>
+<big>Let’s collaborate, build, and create something impactful! 🚀</big>
+</p>
