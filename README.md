@@ -78,13 +78,25 @@ Teamwork, Hardworking, Project Management, Problem Solving, Time Management, Com
 
 
 ## 🏆 Featured Projects 🏆
-
 | Project | Tech Stack | Description | Links |
-|--------|------------|-------------|-------|
-| 🎯 Media Gallery | JS • HTML/CSS | Dynamic gallery for travel website | — |
-| 🔄 NFA → DFA Converter | C • Automata Theory | Converts regex → NFA → DFA | — |
-| 🌐 Full‑Stack Web Labs | HTML • CSS • JS | A complete set of academic lab works | — |
-| 🧩 InnovateX Hackathon | JS • Prototype | Solving Nepal‑specific problems | — |
+|---------|------------|-------------|-------|
+| 🏥 Medicare | PHP • MySQL | E‑pharmacy & medicine supply system | [Repo](https://github.com/sujan7206/medicare) |
+| 🌐 Sujan Basnet Portfolio | HTML • CSS • JavaScript | Personal portfolio website | [Repo](https://github.com/sujan7206/sujanbasnet) |
+| 🏔️ Holiday Himalaya Frontend | PHP | Holiday Himalaya travel website frontend | Private Repo |
+| 💊 E‑Pharm | PHP | Medicine delivery & pharmacy management | [Repo](https://github.com/sujan7206/epharm) |
+| 🏔️ Holiday Himalaya | PHP | Full holiday & trekking booking platform | Private Repo |
+| 🏥 TakeCare | PHP | Health service management system | [Repo](https://github.com/sujan7206/takecare) |
+| 💊 E‑Pharmacy (Group Project) | HTML | Pharmacy website with basic UI | [Repo](https://github.com/sujan7206/epharmacy) |
+| 📄 SAD Project Report | Docs | System analysis project documentation | [Repo](https://github.com/sujan7206/sad-project-report) |
+| 🏔️ Holiday Himalaya (Old) | PHP | Older version of the Holiday Himalaya website | Private Repo |
+| 🧪 SAM | Python | Simulation & Modeling programs | [Repo](https://github.com/sujan7206/SAM) |
+| 🔐 Cryptography Lab | Python | Cryptography algorithms and lab works | [Repo](https://github.com/sujan7206/Cryptography) |
+| ⚙️ DAA | C++ | Design & Analysis of Algorithms labs | [Repo](https://github.com/sujan7206/DAA) |
+| 🖼️ Image Processing | Python | Image enhancement & processing tasks | [Repo](https://github.com/sujan7206/Image_Processing) |
+| ✈️ Tour & Travel Website | HTML • CSS | Travel booking website prototype | Private Repo |
+| 🤖 Chatbot (DeepSeek API) | Python | AI-powered chatbot using DeepSeek API | Private Repo |
+| 🤖 SujanBot | Python | Holiday Himalaya chatbot | [Repo](https://github.com/sujan7206/sujanbot) |
+| 🤖 HolidayChat | Python | Chatbot for holiday services | Private Repo |
 
 ---
 
