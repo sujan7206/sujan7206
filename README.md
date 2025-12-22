@@ -25,7 +25,11 @@
 ## ✨ About Me ✨
 CSIT Student | Developer | Problem Solver  
 I build **clean, responsive, practical web apps** with modern tools and a focus on solving real problems. Passionate about tech, creativity, and learning every day.
+<div align="center">
 
+![snake gif](https://github.com/SarwarMorshad/SarwarMorshad/blob/output/github-snake.svg)
+  
+</div>
 <p align="center">
   <a href="https://sujanbasnet7206.com.np">
     <img src="https://img.shields.io/badge/Portfolio-00FF80?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00ffcc" />
