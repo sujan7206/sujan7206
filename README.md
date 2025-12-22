@@ -27,7 +27,7 @@ CSIT Student | Developer | Problem Solver
 I build **clean, responsive, practical web apps** with modern tools and a focus on solving real problems. Passionate about tech, creativity, and learning every day.
 <div align="center">
 
-![snake gif](https://github.com/Sujan7206/sujan7206/blob/output/github-snake.svg)
+![snake gif](https://github.com/Sujan7206/sujan7206/output/github-snake.svg)
   
 </div>
 <p align="center">
