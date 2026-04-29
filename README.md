@@ -125,7 +125,7 @@ Teamwork, Hardworking, Project Management, Problem Solving, Time Management, Com
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujan7206&show_icons=true&count_private=true&theme=dark&hide_border=true" height="160px"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan7206&layout=compact&theme=dark&hide_border=true" height="160px"/>
 </p>
 
