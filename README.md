@@ -2,9 +2,6 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=CSIT+STUDENT+ ;DEVELOPER+ ;PROBLEM+SOLVER+ ;Learner+ "/>
-</p>
 
 <p align="center">
   <a href="https://github.com/sujan7206" target="_blank">
