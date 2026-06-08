@@ -76,7 +76,7 @@ Teamwork, Hardworking, Project Management, Problem Solving, Time Management, Com
 
 | Level | College Details | Course | GPA |
 |-------|-----------------|--------|-----|
-| Bachelor | Academia International College, Gwarko-Lalitpur <br/> Feb 2023 - Present | BSc.CSIT | 3.35 |
+| Bachelor | Academia International College, Gwarko-Lalitpur <br/> Feb 2023 - Present | BSc.CSIT | ........ |
 | +2 Science | Bagmati Modern College, Sukedhara, Kathmandu <br/> Aug 2020 - Aug 2022 | Science | 3.29 |
 | SEE | Shree Garma Secondary School, garma-7, Solukhumbu <br/> Mar 2009 - Feb 2019 | Basic | 3.64 |
 
